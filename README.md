@@ -1,4 +1,5 @@
-Connect with Me on Social Network
+### Connect with Me on Social Network
 
-https://www.linkedin.com/in/luciano-domingues-b7b84312/
+* [Portfolio](https://luccidomingues.github.io/): https://luccidomingues.github.io/ (Under construction)
+* [LinkedIn](https://www.linkedin.com/in/luciano-domingues-b7b84312/): https://www.linkedin.com/in/luciano-domingues-b7b84312/
 
